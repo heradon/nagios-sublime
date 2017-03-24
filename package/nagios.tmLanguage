@@ -4,10 +4,10 @@
 <dict>
 	<key>fileTypes</key>
 	<array>
-		<string>cfg</string>
+		<string>conf</string>
 	</array>
 	<key>name</key>
-	<string>Nagios</string>
+	<string>Icinga2</string>
 	<key>patterns</key>
 	<array>
 		<dict>
