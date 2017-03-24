@@ -1,6 +1,6 @@
 { "name": "Nagios",
   "scopeName": "source.nagios",
-  "fileTypes": ["cfg"],
+  "fileTypes": ["conf"],
   "patterns": [
     { "name": "comment.line.number-sign.nagios",
       "match": "^[\\s]*#.*",
