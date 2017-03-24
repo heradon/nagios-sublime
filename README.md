@@ -1,6 +1,6 @@
-nagios-sublime
+Icinga2-sublime
 ============  
-_Nagios package for Sublime Text_
+_Icinga2 package for Sublime Text_
 
 A small package that provides syntax highlighting, block commenting, and snippet support for
 defining hosts/services etc.
@@ -14,7 +14,7 @@ packages are installed.
 
 open a terminal, cd to the packages directory and then clone this project:
 
-	git clone https://github.com/bn0/nagios-sublime.git
+	git clone https://github.com/heradon/nagios-sublime.git
 </dd>
 <dt>Using Package Control:</dt>
 <dd>Open the Command Pallete - press *'ctrl+shift+p'* (Windows, Linux) or *'cmd+shift+p'* (OS X).  
@@ -24,7 +24,7 @@ commands by typing *'package'*.
 ######Add Repository  
 Package Control: Add Repository  
 
-	https://github.com/bn0/nagios-sublime
+	https://github.com/heradon/nagios-sublime
 
 
 ######Install Package  
